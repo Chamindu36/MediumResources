@@ -1,0 +1,7 @@
+[package]
+org = "chamindu"
+name = "RESTService"
+version = "0.1.0"
+
+[build-options]
+observabilityIncluded = true
